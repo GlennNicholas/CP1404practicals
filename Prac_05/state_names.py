@@ -1,8 +1,3 @@
-"""
-CP1404/CP5632 Practical
-State names in a dictionary
-File needs reformatting
-"""
 """https://github.com/GlennNicholas/CP1404practicals"""
 
 CODE_TO_NAME = {"QLD": "Queensland",

@@ -1,5 +1,6 @@
 """https://github.com/GlennNicholas/CP1404practicals"""
 
+
 def main():
     word_to_count = {}
     sentence = input("Enter a sentence: ")

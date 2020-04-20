@@ -21,7 +21,7 @@ def main():
             print("Invalid Colour")
         colour_name = input("Enter a Colour: ").lower()
 
-    
+
 main()
 
 
