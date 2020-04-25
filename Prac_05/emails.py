@@ -22,5 +22,6 @@ def name_from_email(email):
     name = ' '.join(split_at).title()
     return name
 
+
 if __name__ == '__main__':
     main()
